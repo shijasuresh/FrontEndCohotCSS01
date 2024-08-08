@@ -35,3 +35,14 @@ body {
     border-radius: 10px;
     border: none;
 }
+
+.card2 {
+    width: 320px;
+    margin: 20px auto;
+    padding: 40px;
+}
+
+.card2-p {
+    color: gray;
+    font-weight: 500;
+}
