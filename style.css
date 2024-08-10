@@ -60,7 +60,7 @@ body {
     font-weight: 500;
 }
 
-.card-flex-work{
+.card2-flex-work{
     background-color: #eee;
     border: none;
     border-radius: 14px;
@@ -75,7 +75,7 @@ body {
     gap: 20px;
 }
 
-.card-flex-personal{
+.card2-flex-personal{
     border: none;
     border-radius: 14px;
     display: flex;
@@ -85,9 +85,57 @@ body {
 }
 
 .card3 {
-    width: 300px;
+    width: 350px;
     margin: 20px auto;
     padding: 40px;
     background-color: white;
     border-radius: 16px;
+}
+
+.phone {
+    margin-bottom: 0;
+}
+
+.card3-header {
+    margin-top: 0;
+}
+
+.card3-p1 {
+    color: gray;
+    font-weight: 500;
+}
+
+.card3-flex-new{
+    background-color: #eee;
+    border: none;
+    border-radius: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.new-number {
+    display: flex;
+    gap: 20px;
+}
+
+.card3-flex-port{
+    border: none;
+    border-radius: 14px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.div-p {
+    width: 50%;
+    flex: 1;
+}
+
+.card3-p2 {
+    color: #a9a5a5;
+    font-weight: 500;
+    font-size: 13px;
 }
